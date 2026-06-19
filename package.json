@@ -1,19 +1,12 @@
 {
-<<<<<<< HEAD
-  "name": "ecommerce-cart",
+  "name": "mini-ecommerce-cart",
   "homepage": "https://saritha9087.github.io/Mini-E-Commerce-Cart/",
   "private": true,
-  "version": "0.0.0",
-=======
-  "name": "mini-ecommerce-cart",
-  "private": true,
   "version": "1.0.0",
->>>>>>> 863432bb9fbdee09e24e51b176ae960c14f24e2c
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
@@ -36,15 +29,3 @@
     "vite": "^8.0.12"
   }
 }
-=======
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
-}
->>>>>>> 863432bb9fbdee09e24e51b176ae960c14f24e2c
