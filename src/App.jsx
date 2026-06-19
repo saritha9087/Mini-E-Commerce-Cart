@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import hero from "./assets/hero.png";
-
 
 export default function App() {
   const products = [
@@ -8,25 +6,25 @@ export default function App() {
       id: 1,
       name: "Laptop",
       price: 50000,
-      image: hero
+      image: "https://via.placeholder.com/200"
     },
     {
       id: 2,
       name: "Smartphone",
       price: 25000,
-      image: hero
+      image: "https://via.placeholder.com/200"
     },
     {
       id: 3,
       name: "Headphones",
       price: 3000,
-      image: hero
+      image: "https://via.placeholder.com/200"
     },
     {
       id: 4,
       name: "Smart Watch",
       price: 5000,
-      image: hero
+      image: "https://via.placeholder.com/200"
     }
   ];
 
